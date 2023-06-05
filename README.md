@@ -10,16 +10,16 @@ The EVATechnicalAssessment repository houses my solutions to the coding question
 
 The repository consists of the following:
 
-1. **Question 1:** [PalindromeChecker]
+1. **Question 1:** [PalindromeChecker](src/Q1_PalindromeChecker.java)
   
 
-2. **Question 2:** [TwoSum]
+2. **Question 2:** [TwoSum](src/Q2_TwoSum.java)
   
 
-3. **Question 3:** [LongestSubstring]
+3. **Question 3:** [LongestSubstring](src/Q3_LongestSubstring.java)
 
 
-4. **Question 4:** [MaximumSubarraySum]
+4. **Question 4:** [MaximumSubarraySum](src/Q4_MaximumSubarraySum.java)
 
 ## Usage
 
